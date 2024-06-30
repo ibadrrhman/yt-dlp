@@ -1,5 +1,5 @@
 <!-- MANPAGE: BEGIN EXCLUDED SECTION -->
-<div align="center">
+
 
 [![YT-DLP](https://raw.githubusercontent.com/yt-dlp/yt-dlp/master/.github/banner.svg)](#readme)
 
